@@ -17,7 +17,7 @@
     "express": "EXPRESS_VERSION"
   },
   "dependencies": {
-    "@nguniversal/common": "0.0.0-PLACEHOLDER",
+    "@nguniversal/common": "16.2.0",
     "tslib": "^2.3.0"
   },
   "schematics": "./schematics/collection.json",
